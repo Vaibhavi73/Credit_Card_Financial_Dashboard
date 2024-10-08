@@ -46,9 +46,10 @@ Technologies Used:-
 Several tools and technologies were utilized to develop this comprehensive Power BI dashboard:
 
 1. Power BI: The primary tool for building interactive dashboards and visualizations, with features like slicers, filters, and drill-down capabilities to allow for dynamic analysis.
-2. DAX (Data Analysis Expressions): Used for creating custom measures and calculations, such as rolling averages, credit risk scores, and total/average transaction values.
-3. ETL Process: (Extract, Transform, Load)** methodologies were applied to clean, normalize, and prepare the raw transaction data for analysis.
-4. Power Query: Used within Power BI to transform raw data, filter unnecessary information, and structure data efficiently for analysis.
+2. CSV:- Data for this project was imported into Power BI using the CSV file import option, ensuring seamless integration and analysis of large-scale transaction datasets.
+3. DAX (Data Analysis Expressions): Used for creating custom measures and calculations, such as rolling averages, credit risk scores, and total/average transaction values.
+4. ETL Process: (Extract, Transform, Load)** methodologies were applied to clean, normalize, and prepare the raw transaction data for analysis.
+5. Power Query: Used within Power BI to transform raw data, filter unnecessary information, and structure data efficiently for analysis.
 
 Business Impact:-
 
